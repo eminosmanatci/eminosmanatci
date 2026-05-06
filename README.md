@@ -104,12 +104,12 @@
 <h2>📊 GitHub Activity & Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eminosmanatci&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminosmanatci&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eminosmanatci&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminosmanatci&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminosmanatci&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=eminosmanatci&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
