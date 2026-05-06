@@ -60,30 +60,30 @@
 
 <h2>📌 Featured Projects</h2>
 
-<h3>1. <a href="https://github.com/eminosmanatci/ai-document-assistant">ai-document-assistant</a> ⭐</h3>
+<h3>1. <a href="https://github.com/eminosmanatci/task-management-api">task-management-api</a> ⭐</h3>
+
+<p><strong>FastAPI Task Management API (with React Frontend)</strong></p>
+
+<p>Clean Architecture backend with JWT authentication and AI-powered task analysis.</p>
+
+<ul>
+  <li><strong>Architecture:</strong> Domain-driven layers (Models, Schemas, Services, Routers)</li>
+  <li><strong>Stack:</strong> FastAPI • PostgreSQL • SQLAlchemy • JWT • Docker • React</li>
+  <li><strong>Features:</strong> Async performance • User data isolation • AI task prioritization</li>
+</ul>
+
+---
+
+<h3>2. <a href="https://github.com/eminosmanatci/ai-document-assistant">ai-document-assistant</a></h3>
 
 <p><strong>RAG-based Document Q&A API</strong></p>
 
 <p>Turns PDF/TXT documents into AI-powered knowledge bases with semantic search.</p>
 
 <ul>
-  <li><strong>Stack:</strong> FastAPI • LangChain • OpenAI Embeddings • ChromaDB • PostgreSQL • Docker</li>
-  <li><strong>Features:</strong> Document upload & chunking • Semantic search • Streaming Q&A • Conversation memory</li>
+  <li><strong>Stack:</strong> FastAPI • LangChain • OpenAI Embeddings • ChromaDB • Docker</li>
   <li><strong>Architecture:</strong> RAG pipeline with vector embeddings and LLM generation</li>
-</ul>
-
----
-
-<h3>2. <a href="https://github.com/eminosmanatci/task-management-api">task-management-api</a></h3>
-
-<p><strong>Professional Task Management API with AI Integration</strong></p>
-
-<p>Clean Architecture backend with JWT authentication and AI-powered task analysis.</p>
-
-<ul>
-  <li><strong>Stack:</strong> FastAPI • PostgreSQL • SQLAlchemy • JWT • OpenAI API • Docker</li>
-  <li><strong>Features:</strong> CRUD operations • JWT auth • Role-based access • <strong>AI task prioritization & categorization</strong></li>
-  <li><strong>Pattern:</strong> Repository pattern • Dependency injection • Async endpoints</li>
+  <li><strong>Features:</strong> Semantic search • Streaming Q&A • Conversation memory</li>
 </ul>
 
 ---
@@ -92,38 +92,24 @@
 
 <p><strong>Scalable Event Tracking with AI Insights</strong></p>
 
-<p>Collects, processes, and analyzes user activity data with AI-powered pattern detection.</p>
+<p>Collects and processes user activity data with Python-centric backend logic.</p>
 
 <ul>
   <li><strong>Stack:</strong> FastAPI • PostgreSQL • Redis • OpenAI API • Docker</li>
-  <li><strong>Features:</strong> Event ingestion pipeline • Real-time analytics • <strong>AI anomaly detection & trend insights</strong></li>
   <li><strong>Pattern:</strong> Event-driven architecture • Background processing • Data aggregation</li>
 </ul>
 
 ---
 
-<h3>4. <a href="https://github.com/eminosmanatci/ParkEye">ParkEye</a></h3>
-
-<p><strong>Deep Learning-based Parking Space Detection</strong></p>
-
-<p>Computer vision model for real-time parking space classification using CNN architecture.</p>
-
-<ul>
-  <li><strong>Stack:</strong> Python • TensorFlow/Keras • OpenCV • NumPy</li>
-  <li><strong>Features:</strong> Image preprocessing • CNN model training • Real-time inference pipeline</li>
-  <li><strong>Result:</strong> Automated detection of empty/occupied parking spots</li>
-</ul>
-
----
-
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Activity & Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eminosmanatci&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eminosmanatci&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminosmanatci&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminosmanatci&layout=compact&theme=dark&hide_border=true&langs_count=6&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminosmanatci&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
