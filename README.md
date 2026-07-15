@@ -62,7 +62,7 @@ Currently, I'm looking for opportunities as a **Junior Python Backend Developer*
 ### AI & Data
 
 <p>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_API-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
