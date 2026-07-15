@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emin Osman Atcı</h1>
 
-<h3 align="center">Backend Developer | Python & FastAPI | AI Integration</h3>
+<h3 align="center">Computer Engineer | Python Backend Developer</h3>
+
+<p align="center">
+  Building scalable backend systems with Python, FastAPI and modern cloud-native technologies.
+</p>
 
 <p align="center">
   <a href="mailto:atcieminosman@gmail.com">
@@ -9,120 +13,90 @@
   <a href="https://www.linkedin.com/in/emin-osman-atci/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Turkey-%23E30A17?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Konya-Turkey-E30A17?style=for-the-badge" />
 </p>
 
 ---
 
-<h2>🎯 About Me</h2>
+## 👨‍💻 About Me
 
-<p>I'm a <strong>Computer Engineering student</strong> building production-ready backend systems with integrated AI capabilities.</p>
+I'm a Computer Engineering graduate focused on **Python backend development**.
 
-<p>My focus is on <strong>bridging traditional backend development with modern AI integration</strong> — creating APIs that don't just store data, but understand and process it intelligently using LLMs and RAG architectures.</p>
+I enjoy building scalable REST APIs, designing clean software architectures, and developing data-driven backend systems.
 
-<ul>
-  <li>🔭 Currently working on <strong>AI-powered document Q&A systems</strong> using FastAPI + LangChain + ChromaDB</li>
-  <li>🌱 Learning <strong>LLM fine-tuning, multi-agent systems (LangGraph), and vector database optimization</strong></li>
-  <li>💡 Interested in <strong>RAG architectures, streaming AI responses, and production LLM deployment</strong></li>
-  <li>📫 Reach me at: <strong>atcieminosman@gmail.com</strong></li>
-</ul>
+Alongside backend development, I have experience with **AI integration**, **computer vision**, and **data analytics** through internships and personal projects.
+
+Currently, I'm looking for opportunities as a **Junior Python Backend Developer** while continuing to improve my expertise in backend engineering and AI-powered applications.
 
 ---
 
-<h2>🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
-<h3>Core Backend</h3>
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
 </p>
 
-<h3>AI & LLM Integration</h3>
+### Database
+
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alembic-222222?style=flat-square"/>
 </p>
 
-<h3>DevOps & Tools</h3>
+### DevOps & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
 </p>
 
 ---
 
-<h2>📌 Featured Projects</h2>
+## 🚀 What I'm Working On
 
-<h3>1. <a href="https://github.com/eminosmanatci/task-management-api">task-management-api</a> ⭐</h3>
-
-<p><strong>FastAPI Task Management API (with React Frontend)</strong></p>
-
-<p>Clean Architecture backend with JWT authentication and AI-powered task analysis.</p>
-
-<ul>
-  <li><strong>Architecture:</strong> Domain-driven layers (Models, Schemas, Services, Routers)</li>
-  <li><strong>Stack:</strong> FastAPI • PostgreSQL • SQLAlchemy • JWT • Docker • React</li>
-  <li><strong>Features:</strong> Async performance • User data isolation • AI task prioritization</li>
-</ul>
+- ⚡ Developing scalable backend services with FastAPI
+- 🐳 Containerizing applications using Docker
+- 🗄️ Designing efficient PostgreSQL database architectures
+- 🤖 Integrating AI capabilities into backend systems
+- 📊 Building data-driven software solutions
 
 ---
 
-<h3>2. <a href="https://github.com/eminosmanatci/ai-document-assistant">ai-document-assistant</a></h3>
+## 🎓 Experience
 
-<p><strong>RAG-based Document Q&A API</strong></p>
-
-<p>Turns PDF/TXT documents into AI-powered knowledge bases with semantic search.</p>
-
-<ul>
-  <li><strong>Stack:</strong> FastAPI • LangChain • OpenAI Embeddings • ChromaDB • Docker</li>
-  <li><strong>Architecture:</strong> RAG pipeline with vector embeddings and LLM generation</li>
-  <li><strong>Features:</strong> Semantic search • Streaming Q&A • Conversation memory</li>
-</ul>
+- 💼 AI R&D Intern @ Arvis Teknoloji
+- 📊 Business Intelligence & Data Analytics Intern @ MEDAŞ
+- 🏆 TEKNOFEST 2025 Finalist
 
 ---
 
-<h3>3. <a href="https://github.com/eminosmanatci/event-analytics-platform">event-analytics-platform</a></h3>
+## 📫 Contact
 
-<p><strong>Scalable Event Tracking with AI Insights</strong></p>
-
-<p>Collects and processes user activity data with Python-centric backend logic.</p>
-
-<ul>
-  <li><strong>Stack:</strong> FastAPI • PostgreSQL • Redis • OpenAI API • Docker</li>
-  <li><strong>Pattern:</strong> Event-driven architecture • Background processing • Data aggregation</li>
-</ul>
-
----
-
-<h2>🚀 Current Focus</h2>
-
-<pre>
-Backend Developer → AI Integration Engineer
-
-Phase 1: ✅ FastAPI + PostgreSQL + Docker (Production-ready APIs)
-Phase 2: 🔄 LangChain + RAG + Vector DBs (AI-powered document systems)
-Phase 3: ⏳ LLM Fine-tuning + Multi-agent Systems (Advanced AI integration)
-</pre>
-
----
-
-<h2>📫 Let's Connect</h2>
-
-<ul>
-  <li>💼 <a href="https://www.linkedin.com/in/emin-osman-atci/">LinkedIn</a></li>
-  <li>📧 <a href="mailto:atcieminosman@gmail.com">Email</a></li>
-  <li>🐙 <a href="https://github.com/eminosmanatci">GitHub</a></li>
-</ul>
+- 📧 **Email:** atcieminosman@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/emin-osman-atci
+- 🐙 **GitHub:** https://github.com/eminosmanatci
 
 ---
 
 <p align="center">
-  <i>"Building APIs that don't just store data — they understand it."</i>
+<i>Backend first. AI when it adds value.</i>
 </p>
