@@ -25,15 +25,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering graduate focused on building software applications with **Python**.
+I'm a Computer Engineering graduate building software applications with **Python**.
 
-My primary area is backend development. I build REST APIs and data-driven systems using **FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery and Docker**. I can also connect backend services with **React** interfaces to develop end-to-end web applications.
+My primary focus is backend development. I build REST APIs and data-driven systems using **FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery and Docker**. I also connect backend services with **React** interfaces to develop end-to-end web applications.
 
-I have experience in **SQL, data analytics, reporting and business intelligence** through internships and software projects.
+Through internships and software projects, I have gained experience in **SQL, data analytics, reporting and business intelligence**.
 
-Alongside software development, I have worked on applied AI projects involving **computer vision, object detection, multi-object tracking, LLM integration and RAG architectures**.
+I have also developed applied AI solutions involving **computer vision, object detection, multi-object tracking, LLM integration and RAG architectures**.
 
 My goal is to combine backend engineering, data and artificial intelligence to build reliable software products that solve real-world problems.
+
+I'm open to software development opportunities across **Python backend, data-driven applications and AI integration**.
 
 I am open to opportunities in:
 
